@@ -1,0 +1,1688 @@
+
+10-04 08:59:51-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 08:59:52-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=1
+
+10-04 08:59:53-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 08:59:56-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
+
+10-04 08:59:59-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/HallstattAustria_PT-BR9407016733_1920x1080.jpg
+
+10-04 09:00:02-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+
+10-04 09:00:06-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/EtretatSunrise_ZH-CN10891175350_1920x1080.jpg
+
+10-04 09:00:08-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/ZoomOut_ZH-CN4471982075_1920x1080.jpg
+
+10-04 09:00:10-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/Aoraki_ZH-CN7776353328_1920x1080.jpg
+
+10-04 09:00:14-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/SouthMoravian_ZH-CN13384331455_1920x1080.jpg
+
+10-04 09:00:17-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/MatunuskaGlacier_ZH-CN11670641539_1920x1080.jpg
+
+10-04 09:00:20-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/RainierMilkyWay_ZH-CN9404321904_1920x1080.jpg
+
+10-04 09:00:22-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=2
+
+10-04 09:00:23-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/NavagioBeach_ZH-CN8854639142_1920x1080.jpg
+
+10-04 09:02:25-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:02:25-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=1
+
+10-04 09:02:26-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:02:27-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 09:02:31-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
+
+10-04 09:12:39-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:12:39-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:12:39-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:12:41-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 09:12:44-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
+
+10-04 09:14:17-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:14:18-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:14:18-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:14:18-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:14:19-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 09:14:22-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
+
+10-04 09:14:25-com.example.util.ImageDownloadUtils.download()
+[INFO]【保存文件地址】/Users/WYH/Downloads/picdownload/HallstattAustria_PT-BR9407016733_1920x1080.jpg
+
+10-04 09:27:13-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:27:14-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:27:14-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:27:14-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:27:15-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 09:27:18-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
+
+10-04 09:27:21-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/HallstattAustria_PT-BR9407016733_1920x1080.jpg
+
+10-04 09:27:24-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+
+10-04 09:31:58-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:31:58-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:31:58-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:31:58-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:32:00-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 09:32:02-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 09:33:15-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:33:16-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:33:16-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:33:16-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:33:17-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 09:33:20-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 09:34:08-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:34:09-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:34:09-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:34:09-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:34:10-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 09:34:13-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 09:37:05-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:37:06-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:37:06-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:37:06-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:37:06-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】null
+
+10-04 09:37:06-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:61)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 09:37:06-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=2
+
+10-04 09:37:06-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3]
+
+10-04 09:37:06-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=2
+
+10-04 09:37:07-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】null
+
+10-04 09:37:07-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=2', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:61)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 09:37:07-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=3
+
+10-04 09:37:07-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2, https://bing.ioliu.cn/ranking?p=4]
+
+10-04 09:37:07-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=3
+
+10-04 09:37:07-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】null
+
+10-04 09:37:07-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=3', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:61)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 09:37:08-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=4
+
+10-04 09:37:08-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3, https://bing.ioliu.cn/ranking?p=5]
+
+10-04 09:37:08-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=4
+
+10-04 09:37:08-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】null
+
+10-04 09:37:08-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=4', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:61)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 09:37:08-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=5
+
+10-04 09:37:08-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=4, https://bing.ioliu.cn/ranking?p=6]
+
+10-04 09:37:08-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=5
+
+10-04 09:39:27-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:39:28-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:39:28-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:39:28-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:39:28-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】null
+
+10-04 09:39:28-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:61)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 09:39:29-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=2
+
+10-04 09:39:29-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3]
+
+10-04 09:39:29-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=2
+
+10-04 09:39:29-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】null
+
+10-04 09:39:29-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=2', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:61)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 09:39:29-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=3
+
+10-04 09:39:29-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2, https://bing.ioliu.cn/ranking?p=4]
+
+10-04 09:39:29-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=3
+
+10-04 09:39:30-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】null
+
+10-04 09:39:30-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=3', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:61)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 09:40:41-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:40:41-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:40:42-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:40:42-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:40:48-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 09:40:51-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 09:45:32-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:45:32-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:45:32-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:45:32-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:45:34-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 09:45:36-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 09:46:14-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:46:15-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:46:15-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:46:15-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:46:15-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】null
+
+10-04 09:46:15-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:61)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 09:46:15-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=2
+
+10-04 09:46:15-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3]
+
+10-04 09:46:15-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=2
+
+10-04 09:46:16-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】null
+
+10-04 09:46:16-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=2', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:61)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 09:46:16-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=3
+
+10-04 09:46:16-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2, https://bing.ioliu.cn/ranking?p=4]
+
+10-04 09:46:16-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=3
+
+10-04 09:46:40-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:46:41-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:46:41-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:46:41-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:46:42-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 09:46:48-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
+
+10-04 09:46:58-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】null
+
+10-04 09:48:35-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 09:51:21-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 09:52:43-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 09:53:42-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:53:43-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:53:43-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:53:43-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:53:44-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 09:53:47-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 09:53:50-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/HallstattAustria_PT-BR9407016733?force=download_1920x1080.jpg
+
+10-04 09:58:20-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:58:21-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:58:21-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:58:21-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:58:22-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 09:59:03-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:59:04-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:59:04-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:59:04-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:59:05-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 09:59:08-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 09:59:30-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 09:59:31-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 09:59:31-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 09:59:31-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 09:59:32-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/F_1920x1080.jpg
+
+10-04 09:59:35-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/Q_1920x1080.jpg
+
+10-04 10:04:55-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:04:56-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:04:56-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:04:56-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:04:57-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/F_1920x1080.jpg
+
+10-04 10:05:12-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:05:12-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:05:12-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:05:12-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:05:13-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:05:22-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:05:22-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:05:22-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:05:22-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:05:23-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:05:23-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:05:23-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=2
+
+10-04 10:05:23-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3]
+
+10-04 10:05:23-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=2
+
+10-04 10:05:23-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:05:23-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=2', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:05:24-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=3
+
+10-04 10:05:24-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2, https://bing.ioliu.cn/ranking?p=4]
+
+10-04 10:05:24-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=3
+
+10-04 10:05:24-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:05:24-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=3', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:05:24-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=4
+
+10-04 10:05:24-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3, https://bing.ioliu.cn/ranking?p=5]
+
+10-04 10:05:24-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=4
+
+10-04 10:05:24-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:05:24-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=4', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:05:25-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=5
+
+10-04 10:05:25-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=4, https://bing.ioliu.cn/ranking?p=6]
+
+10-04 10:05:25-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=5
+
+10-04 10:05:25-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:05:25-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=5', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:05:25-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=6
+
+10-04 10:05:25-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=5, https://bing.ioliu.cn/ranking?p=7]
+
+10-04 10:05:25-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=6
+
+10-04 10:05:25-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:05:25-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=6', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:05:26-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=7
+
+10-04 10:05:26-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=6, https://bing.ioliu.cn/ranking?p=8]
+
+10-04 10:05:26-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=7
+
+10-04 10:05:26-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:05:26-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=7', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:05:26-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=8
+
+10-04 10:05:26-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=7, https://bing.ioliu.cn/ranking?p=9]
+
+10-04 10:05:26-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=8
+
+10-04 10:05:26-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:05:26-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=8', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:08:49-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:08:50-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:08:50-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:08:50-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:08:53-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】/Users/WYH/Downloads/picdownload///bing.ioliu.cn/photo/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:08:53-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at javax.imageio.ImageIO.write(ImageIO.java:1538)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:81)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:08:54-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=2
+
+10-04 10:08:54-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3]
+
+10-04 10:08:54-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=2
+
+10-04 10:09:56-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:09:57-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:09:57-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:09:57-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:09:59-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/null_1920x1080.jpg
+
+10-04 10:10:02-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/null_1920x1080.jpg
+
+10-04 10:10:20-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:10:20-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:10:20-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:10:20-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:10:21-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】/Users/WYH/Downloads/picdownload///bing.ioliu.cn/photo/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:10:21-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at javax.imageio.ImageIO.write(ImageIO.java:1538)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:81)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:10:22-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=2
+
+10-04 10:10:22-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3]
+
+10-04 10:10:22-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=2
+
+10-04 10:12:36-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg?dpep_1200x675.jpg
+
+10-04 10:13:01-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 10:13:46-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200_1200x675jpg
+
+10-04 10:14:10-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200_1200x675.jpg
+
+10-04 10:16:55-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 10:17:03-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 10:17:25-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:17:25-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:17:26-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:17:26-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:17:28-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:17:31-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 10:21:27-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:21:28-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:21:28-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:21:28-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:21:29-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:23:10-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:23:11-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:23:11-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:23:11-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:23:12-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:23:15-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 10:42:28-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:42:28-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:42:29-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:42:29-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:42:30-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/_1920x1080.jpg
+
+10-04 10:42:33-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/_1920x1080.jpg
+
+10-04 10:42:58-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:42:59-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:42:59-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:42:59-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:43:00-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/_1920x1080.jpg
+
+10-04 10:43:08-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:43:09-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:43:09-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:43:09-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:43:09-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:43:09-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:43:09-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=2
+
+10-04 10:43:09-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3]
+
+10-04 10:43:09-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=2
+
+10-04 10:43:10-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:43:10-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=2', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 10:43:10-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=3
+
+10-04 10:43:10-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2, https://bing.ioliu.cn/ranking?p=4]
+
+10-04 10:43:10-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=3
+
+10-04 10:44:31-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:44:32-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:44:32-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:44:32-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:44:33-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/_1920x1080.jpg
+
+10-04 10:45:55-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:45:55-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:45:56-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:45:56-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:45:56-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:46:06-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:46:06-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:46:06-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:46:06-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:46:09-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/_1920x1080.jpg
+
+10-04 10:46:22-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:46:22-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:46:22-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:46:22-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:46:24-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/_1920x1080.jpg
+
+10-04 10:48:17-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:48:17-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:48:17-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:48:17-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:48:18-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:48:21-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 10:48:34-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:48:35-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:48:35-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:48:35-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:48:37-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:48:56-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:48:57-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:48:57-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:48:57-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:48:58-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:49:01-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 10:51:51-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:51:52-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:51:52-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:51:52-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:51:55-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:52:01-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964?force=download_1920x1080.jpg
+
+10-04 10:52:16-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:52:17-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:52:17-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:52:17-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:52:18-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:53:02-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:53:02-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:53:02-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:53:02-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:53:04-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319?force=download_1920x1080.jpg
+
+10-04 10:54:21-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 10:54:21-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 10:54:21-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 10:54:21-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 10:54:22-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 10:54:25-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
+
+10-04 10:54:41-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:56:12-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 10:59:10-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 10:59:50-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 12:14:05-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 12:14:27-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 12:15:29-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 12:15:53-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 12:16:19-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 12:16:37-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.
+
+10-04 12:17:11-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 12:17:23-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200_1200x675..jpg
+
+10-04 12:18:01-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200_1200x675.jpg
+
+10-04 12:18:23-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200_1200x675.jpg
+
+10-04 12:18:47-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200_1200x675.jpg
+
+10-04 12:18:54-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 12:18:55-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 12:18:55-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 12:18:55-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 12:18:55-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 12:18:55-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 12:18:56-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=2
+
+10-04 12:18:56-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3]
+
+10-04 12:18:56-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=2
+
+10-04 12:18:56-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 12:18:56-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=2', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 12:18:56-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=3
+
+10-04 12:18:56-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2, https://bing.ioliu.cn/ranking?p=4]
+
+10-04 12:18:56-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=3
+
+10-04 12:18:57-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 12:18:57-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=3', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 12:18:57-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=4
+
+10-04 12:18:57-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3, https://bing.ioliu.cn/ranking?p=5]
+
+10-04 12:18:57-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=4
+
+10-04 12:18:57-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 12:18:57-us.codecraft.webmagic.Spider$1.run()
+[ERROR]process request Request{url='https://bing.ioliu.cn/ranking?p=4', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at com.example.util.ImageDownloadUtils.download(ImageDownloadUtils.java:63)
+	at com.example.pipeline.CommonPicturePipeline.process(CommonPicturePipeline.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 12:18:58-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=5
+
+10-04 12:18:58-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=4, https://bing.ioliu.cn/ranking?p=6]
+
+10-04 12:18:58-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=5
+
+10-04 12:19:20-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 12:19:20-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 12:19:21-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 12:19:21-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 12:19:22-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 12:19:25-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
+
+10-04 12:19:28-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/HallstattAustria_PT-BR9407016733_1920x1080.jpg
+
+10-04 12:19:35-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 12:20:16-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 12:20:24-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/null_1200x675.jpg
+
+10-04 12:20:35-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/null_1200x675.jpg
+
+10-04 12:20:52-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 12:21:04-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 12:21:10-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 12:22:02-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 12:22:19-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存失败】null
+
+10-04 12:22:28-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 12:23:27-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520.jpg_wh1200.jpg_1200x675.jpg
+
+10-04 12:23:38-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/0520_1200x675.jpg
+
+10-04 12:23:46-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 12:23:47-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 12:23:47-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 12:23:47-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 12:23:48-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 12:23:51-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
+
+10-04 12:23:54-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/HallstattAustria_PT-BR9407016733_1920x1080.jpg
+
+10-04 12:24:34-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 12:24:34-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 12:24:35-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 12:24:35-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 12:24:37-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 12:24:40-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
+
+10-04 12:24:43-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/HallstattAustria_PT-BR9407016733_1920x1080.jpg
+
+10-04 12:24:47-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+
+10-04 12:29:14-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 12:29:15-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 12:29:15-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 12:29:15-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 12:29:16-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 12:29:19-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
+
+10-04 12:40:07-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 12:40:08-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 12:40:08-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 12:40:08-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 12:40:10-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=2
+
+10-04 12:40:10-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=3]
+
+10-04 12:40:10-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=2
+
+10-04 12:40:12-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking?p=3
+
+10-04 12:40:12-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2, https://bing.ioliu.cn/ranking?p=4]
+
+10-04 12:40:12-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking?p=3
+
+10-04 12:40:20-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[WARN]download page https://bing.ioliu.cn/ranking?p=4 error
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+	at sun.security.ssl.InputRecord.readV3Record(InputRecord.java:593)
+	at sun.security.ssl.InputRecord.read(InputRecord.java:532)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:983)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:940)
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:139)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:155)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:284)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:261)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:165)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:167)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:272)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:124)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:271)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at us.codecraft.webmagic.downloader.HttpClientDownloader.download(HttpClientDownloader.java:85)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:404)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+10-04 12:40:21-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn closed! 4 pages downloaded.
+
+10-04 12:40:29-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/InnerdalsvatnaVideo_EN-AU11002526366_1920x1080.jpg
+
+10-04 12:40:34-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/LakePukaki_EN-AU9412206565_1920x1080.jpg
+
+10-04 12:40:40-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/SaronicGulf_ZH-CN8379891695_1920x1080.jpg
+
+10-04 12:40:55-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/LongTailedBushtits_EN-AU9123255134_1920x1080.jpg
+
+10-04 12:41:04-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/HallwylfjelletSunset_ZH-CN9300910376_1920x1080.jpg
+
+10-04 12:41:04-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/LamarStorm_ZH-CN10021643995_1920x1080.jpg
+
+10-04 12:41:07-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/MozambiqueSandbar_EN-AU11463522567_1920x1080.jpg
+
+10-04 12:41:07-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/ZoomOut_ZH-CN4471982075_1920x1080.jpg
+
+10-04 12:41:13-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/BarHarborCave_EN-AU8598700153_1920x1080.jpg
+
+10-04 12:41:15-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/PingganVillage_ZH-CN10035092925_1920x1080.jpg
+
+10-04 12:41:16-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/Vieste_ZH-CN7832914637_1920x1080.jpg
+
+10-04 12:41:18-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/KaprunDam_ZH-CN9638804777_1920x1080.jpg
+
+10-04 12:41:19-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/DeltaJunction_ZH-CN9901755694_1920x1080.jpg
+
+10-04 12:41:20-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/ElkValleyVideo_EN-AU7645555683_1920x1080.jpg
+
+10-04 12:41:20-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/OrionNebula_EN-AU10620917199_1920x1080.jpg
+
+10-04 12:41:38-us.codecraft.webmagic.Spider.run()
+[INFO]Spider bing.ioliu.cn started!
+
+10-04 12:41:38-us.codecraft.webmagic.downloader.HttpClientDownloader.download()
+[INFO]downloading page success https://bing.ioliu.cn/ranking
+
+10-04 12:41:38-com.example.processor.BingPictureProcessor.process()
+[INFO]【targetUrls】[https://bing.ioliu.cn/ranking?p=2]
+
+10-04 12:41:38-com.example.pipeline.CommonPicturePipeline.process()
+[INFO]【下载图片 from】https://bing.ioliu.cn/ranking
+
+10-04 12:41:44-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/FreshSalt_ZH-CN12818759319_1920x1080.jpg
+
+10-04 12:41:48-com.example.util.ImageDownloadUtils.download()
+[INFO]【文件保存成功】/Users/WYH/Downloads/picdownload/QingMingHuangShan_ZH-CN12993895964_1920x1080.jpg
